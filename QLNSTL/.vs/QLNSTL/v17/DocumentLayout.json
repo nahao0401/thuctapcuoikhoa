@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK8\\TT\\ThucTap\\thuctapcuoikhoa\\QLNSTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871767F6-1D29-4F2D-84C4-B84192D467C4}|GUI\\GUI.csproj|D:\\HK8\\TT\\ThucTap\\thuctapcuoikhoa\\QLNSTL\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871767F6-1D29-4F2D-84C4-B84192D467C4}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871767F6-1D29-4F2D-84C4-B84192D467C4}|GUI\\GUI.csproj|d:\\hk8\\tt\\thuctap\\thuctapcuoikhoa\\qlnstl\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871767F6-1D29-4F2D-84C4-B84192D467C4}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HK8\\TT\\ThucTap\\thuctapcuoikhoa\\QLNSTL\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\HK8\\TT\\ThucTap\\thuctapcuoikhoa\\QLNSTL\\GUI\\Form1.cs*",
+              "RelativeToolTip": "GUI\\Form1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:15:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK8\\TT\\ThucTap\\thuctapcuoikhoa\\QLNSTL\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\HK8\\TT\\ThucTap\\thuctapcuoikhoa\\QLNSTL\\GUI\\Form1.cs [Design]*",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:09:09.602Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

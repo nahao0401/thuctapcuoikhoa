@@ -1,0 +1,12 @@
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\bin\Debug\DAO.dll.config
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\bin\Debug\DAO.dll
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\bin\Debug\DAO.pdb
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\bin\Debug\EntityFramework.dll
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\bin\Debug\EntityFramework.xml
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\obj\Debug\DAO.dll
+D:\HK8\TT\ThucTap\thuctapcuoikhoa\QLNSTL\DAO\obj\Debug\DAO.pdb
